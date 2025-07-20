@@ -1,7 +1,5 @@
 # AZ-500: Microsoft Azure Security Technologies – In-Depth Self‑Study Guide (Intermediate)
 
-> **Policy**: All hyperlinks below point only to free **Microsoft Learn / Microsoft Docs** content. Verify the live AZ‑500 exam skills outline before scheduling; weighting and objectives can evolve.
-
 ---
 ## 0. Study Strategy & Mindset
 **Goal:** Convert intermediate Azure knowledge into *defensible security design & operational skill*.
