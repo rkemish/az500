@@ -15,12 +15,7 @@
 | Governance | Enforce configuration with Policy & initiate remediation | Policy Overview: https://learn.microsoft.com/azure/governance/policy/overview |
 | Cost Awareness | Log scope, retention tiers, Defender plan ROI | Monitor Overview: https://learn.microsoft.com/azure/azure-monitor/overview |
 
-**Routine Suggestion (Example 5-week Plan):**
-- Week 1: Identity & Access (CA, PIM, Identity Protection, App / Managed Identities)
-- Week 2: Network Security (NSG/ASG, Firewall, WAF, DDoS, Private Link, Bastion, JIT)
-- Week 3: Platform Protection (Defender plans, encryption, Key Vault, Storage, SQL)
-- Week 4: Security Operations (Sentinel, KQL, Automation, Hunting, UEBA)
-- Week 5: Governance + Mixed Scenario Labs + Review & Practice Questions
+
 
 ---
 ## 1. Manage Identity & Access (25–30%)
