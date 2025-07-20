@@ -382,5 +382,3 @@ Hot (interactive KQL) vs Archive (cheap) vs Basic Logs. Apply per-table retentio
 
 **Success Metric:** You can explain *why* each chosen control mitigates a specific risk *and* demonstrate configuration steps from memory.
 
-Good luck – turn this guide into action!
-
